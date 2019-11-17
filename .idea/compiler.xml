@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GP_22_DMP" />
+        <module name="Git_HUB" />
       </profile>
     </annotationProcessing>
   </component>
